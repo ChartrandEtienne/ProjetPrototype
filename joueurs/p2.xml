@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<personnage>
+	<nom>barbare</nom>
+	<position>
+		<x>4</x>
+		<y>4</y>
+	</position>
+    <hp_max>10</hp_max>
+	<force>5</force>
+</personnage>
